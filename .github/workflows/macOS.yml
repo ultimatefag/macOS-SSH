@@ -12,8 +12,8 @@ jobs:
 
     env:
       # Change These If You Are Forking The Repo
-      GitHubMail: "rokibhasansagar2014@outlook.com"
-      GitHubName: "rokibhasansagar"
+      GitHubMail: "gluton1@mail.brandman.edu"
+      GitHubName: "ultimatefag"
 
     steps:
     - name: Set Git Configs & Secrets
